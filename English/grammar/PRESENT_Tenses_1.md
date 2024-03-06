@@ -1,9 +1,15 @@
 # PRESENT TENSES
 
+### STATIVE VERB : OPINION, ABSTRACT, STATE, EMOTIONAL, MENTAL, etc
+
+### ACTION VERB
+
 ## SIMPLE
 
-GENERAL -- PERMANENT
+GENERAL -- PERMANENT -- LAST A LONG TIME
 true in general
+
+### RECIPE : SUBJECT + VERB (negative : SUBJECT + DO/DOES + NOT + VERB)
 
 - I work
 - you work
@@ -119,3 +125,160 @@ true only on that time
 6. FUTURE : She's flying to Mexico next week (need future time reference to use this kind of present continuous tense)
 
 when not to use present continuous tense, PERMANENT and STATIVE VERBS(Stative verbs often relate to: thoughts and opinions)
+
+### RECIPE
+
+SUBJECT + TO BE + VERB + ING
+negative : SUBJECT + TO BE + not + VERB + ING
+
+#### POSITIVE
+
+I am sleeping
+you/we/they are sleeping
+he/she/it is sleeping
+
+#### NEGATIVE
+
+I am not sleeping
+you/we/they are not sleeping
+he/she/it is not sleeping
+
+#### QUESTION
+
+Am i sleeping?
+are you/we/they sleeping?
+is he/she/it sleeping?
+
+5w+1H Am i sleeping?
+5W+1H are you/we/they sleeping?
+5W+1H is he/she/it sleeping?
+
+### VERB CHANGES in Continuous tenses
+
+- most verbs ;;;;; add -ing ;;;;; eat - eating, walk - walking
+- verbs ending in -e ;;;;; drop -e ;;;;; use - using, take - taking
+- verbs ending in -ie ;;;;;; drop -ie add -y ;;;;; lie - lying, tie - tying
+- verbs ending in c-v-c (consonant-vowel-consonant) ;;;;;; double last latter ;;;; clap - clapping, sit - sitting
+
+# ADCANCED TENSES
+
+# PRESENT PERFECT
+
+I have worked
+
+- Connects present + past
+- action in the past, result in the present
+
+;;;; what happpened in the past its still true now
+
+past simple : I lost my book,
+present perfect : i have lost my book
+
+1. I/You/They/We + Have + worked (VERB_3 | PAST PARTICIPLE | THIRD FORM VERB)
+2. He/She/It + Has + done (VERB_3 | PAST PARTICIPLE | THIRD FORM VERB)
+
+### SOME SITUATIONS
+
+1. PAST TRUE : I have seen that movie
+2. PAST TRUE : I have found my keys
+3. PAST FINISHED : I have finished my homework
+4. PAST FINISHED : I have cooked dinner
+5. PAST UNFINISHED : I have worked here for five years
+6. PAST UNFINISHED : I have lived here since 2012
+7. PAST UNFINISHED : The flight has not arrived yet
+8. PAST UNFINISHED : She has never eaten sushi
+9. PAST UNFINISHED : How long have you known each other?
+10. RECENT PAST RESULT : I have just eaten lunch
+11. RECENT PAST RESULT : I have just sent the email
+12. PAST REPETITIVE : I have shopped here for many years
+
+FOR + Period of time
+SINCE + Point in time
+
+## U CAN USE PRESENT PERFECT FOR
+
+## 1. UNFINISHED TIME : THIS WEEK, THIS MONTH, THIS YEAR, HOW LONG
+
+## 1. NO TIME EXPRESSION
+
+## U CAN NOT USE PRESENT PERFECT FOR
+
+## 1. FINISHED TIME EXPRESSION : last week, last year, etc, WHEN
+
+#######
+
+ANYTIME IN THE PAST TILL NOW
+
+### RECIPE/STRUCTURE : SUBJECT + HAVE/HAS + PAST PARTICIPLE
+
+### RECIPE/STRUCTURE : SUBJECT + HAVE/HAS + NOT + PAST PARTICIPLE ::: HAVEN'T/HASN'T
+
+HAVE + I/YOU/WE/THEY + PAST PARTICIPLE
+HAS + HE/SHE/IT + PAST PARTICIPLE
+
+HAVE/HAD ---> the past participle form -> HAD
+
+I have had phone for two months
+he hasn't had lunch yet
+
+HAVE ::: I/YOU/THEY/WE'VE
+HAS ::: HE/SHE/IT'S
+
+u cant use WHEN in Present Perfect
+
+## PAST SIMPLE or PRESENT PERFECT
+
+1. PAST SIMPLE
+   - TALK ABOUT PAST
+   - ACTION + FOCUS -> PAST :::: She ate dinner
+   - DEFINITE TIME
+   - FINISHED TIME -> She lived in london from 2015-2018
+   - When did ...
+2. PRESENT PERFECT
+   - CONNECT PAST + PRESENT
+   - ACTION -> PAST FOCUS -> NOW :::: She has eaten dinner
+   - INDEFINITE TIME
+   - UNFINISHED TIME -> She has lived in london since 2015 (include the past and now)
+   - How long ...
+
+IF YOU RE UNSURE/IN DOUBT, USE SIMPLER TENSES
+
+# PRESENT PERFECT CONTINUOUS
+
+- Connects present + past
+- started in past/continuing in present
+
+## -----
+
+- PRESENT PERFECT TENSE : I have cooked dinner
+- PRESENT PERFECT CONTINUOUS/PROGRESSIVE TENSE : I have been cooking dinnner
+
+- I/You/We/They + HAVE BEEN + VERBING
+- He/She/It + HAS BEEN + VERBING
+
+## Some situations that u can use present perfect continuous
+
+1. STARTED CONTINUES : We have been working on this project for six months
+   Sea levels have been rising.
+2. STARTED FINISHED (JUST FINISHED) : I've been calling you for hours
+   We have been waiting for you
+3. COMMON EXPRESSIONS :
+   - I have been studying for two hours
+   - I have been studying since 2 pm
+   - It has been raining all day
+   - She has been exercising a lot lately/recently
+
+NO STATIVE VERB for PRESENT PERFECT CONTINUOUS TENSE
+
+## RECIPE/STRUCTURE ::::: SUBJECT + HAVE/HAS BEEN + VERB + ING
+
+1. POSITIVE
+   - I/You/We/They have been working
+   - He/She/It has been working
+2. NEGATIVE
+   - I/You/We/They have not been working
+   - He/She/It has not been working
+3. QUESTION
+   - have I/You/We/They been working ?
+   - has He/She/It been working ?
+   - 5W+1H Have/Has SUBJECT BEEN VERB + ING
