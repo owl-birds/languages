@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c72c398fc214e4ad",
+        "id": "53b480b812fc40f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f85ce09c1d0e572c",
+            "id": "ebc013892f5f6736",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe6293f854148b40",
@@ -138,12 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f85ce09c1d0e572c",
+  "active": "ebc013892f5f6736",
   "lastOpenFiles": [
+    "English/grammar/intro.md",
     "English/grammar/FUTURE_Tenses_1.md",
     "English/grammar/PAST_Tenses_1.md",
     "English/grammar/PRESENT_Tenses_1.md",
-    "English/grammar/intro.md",
     "Japanese/links.md"
   ]
 }
